@@ -10,7 +10,22 @@ Olá, seja bem vindx!
 - 💬 https://nathaliasi.github.io/curriculo-1/
 - 📫 contate-me em: nathaliatrab@outlook.com
 
-<div style="box-sizing:border-box">
+<style>
+  * {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(140, 241, 241);
+}
+  
+  .lado{
+    text-align: center;
+    margin: 20px;
+}
+  
+</style>
+
+<div class="lado">
   <a href="https://github.com/nathaliasi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliasi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliasi&layout=compact&langs_count=16&theme=onedark"/>
