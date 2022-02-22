@@ -10,10 +10,10 @@ Olá, seja bem vindx!
 - 💬 https://nathaliasi.github.io/curriculo-1/
 - 📫 contate-me em: nathaliatrab@outlook.com
 
-<div>
+<div align="center">
   <a href="https://github.com/nathaliasi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliasi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliasi&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliasi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliasi&layout=compact&langs_count=16&theme=onedark"/>
 </div>
   
 <!--<div style="display: inline_block"><br>
