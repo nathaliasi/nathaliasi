@@ -7,7 +7,7 @@ Olá, seja bem vindx!
 - 🔭 Atualmente cursando Sistemas De informação no CEFET/RJ
 - 🌱 Foco em HTML, CSS, JavaScript, MySql
 - 👯 Em busca de um estágio que me prepare para o futuro
-- 💬 https://nathaliasi.github.io/curriculo-1/
+- 💬https://nathaliasi.github.io/projeto-portfolio
 - 📫 contate-me em: nathaliatrab@outlook.com
 
 <div align-items="start">
