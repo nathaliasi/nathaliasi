@@ -12,7 +12,7 @@ Olá, seja bem vindx!
 
 <div align-items="start">
   <a href="https://github.com/nathaliasi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliasi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliasi&show_icons=true&theme=onedark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliasi&layout=compact&langs_count=16&theme=onedark"/>
 </div>
   
