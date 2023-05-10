@@ -7,7 +7,7 @@ Olá, seja bem vindx!
 - 🔭 Atualmente cursando Sistemas De informação no CEFET/RJ
 - 🌱 HTML, CSS, JavaScript, MySql, React, TypeScript
 - 👯 Em busca de um estágio que me prepare para o futuro
-- 💬https://nathaliasi.github.io/projeto-portfolio
+- 💬https://portfolio-react2-nu.vercel.app/
 - 📫 contate-me em: nathaliatrab@outlook.com
 
 <div align-items="start">
