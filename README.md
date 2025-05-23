@@ -1,14 +1,13 @@
 Olá, seja bem vindx!
   Eu sou a Nathália...
+  Trabalho como Analista de Suporte de TI N1
+  Atualmente estou estudando para certificação CCNA
 
 
 
 
-- 🔭 Atualmente cursando Sistemas De informação no CEFET/RJ
-- 🌱 HTML, CSS, JavaScript, MySql, React, TypeScript
-- 👯 Em busca de um estágio que me prepare para o futuro
-- 💬https://portfolio-react2-nu.vercel.app/
-- 📫 contate-me em: nathaliatrab@outlook.com
+- 🔭Cursando Sistemas De informação
+
 
 <div align-items="start">
   <a href="https://github.com/nathaliasi">
